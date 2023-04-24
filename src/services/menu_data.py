@@ -1,6 +1,6 @@
 import sys
 import csv
-from typing import Optional, Dict
+from typing import Dict
 from src.models.dish import Dish
 from src.models.ingredient import Ingredient
 
